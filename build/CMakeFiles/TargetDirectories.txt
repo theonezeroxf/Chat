@@ -1,0 +1,4 @@
+/root/practice_project/Chat/build/CMakeFiles/rebuild_cache.dir
+/root/practice_project/Chat/build/CMakeFiles/edit_cache.dir
+/root/practice_project/Chat/build/CMakeFiles/chat_client.dir
+/root/practice_project/Chat/build/CMakeFiles/chat_server.dir

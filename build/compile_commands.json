@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/root/practice_project/Chat/build",
+  "command": "/usr/bin/c++   -I/root/practice_project/Chat/include  -g   -std=gnu++11 -o CMakeFiles/chat_client.dir/src/chat_client.cpp.o -c /root/practice_project/Chat/src/chat_client.cpp",
+  "file": "/root/practice_project/Chat/src/chat_client.cpp"
+},
+{
+  "directory": "/root/practice_project/Chat/build",
+  "command": "/usr/bin/c++   -I/root/practice_project/Chat/include  -g   -std=gnu++11 -o CMakeFiles/chat_client.dir/src/chat_room.cpp.o -c /root/practice_project/Chat/src/chat_room.cpp",
+  "file": "/root/practice_project/Chat/src/chat_room.cpp"
+},
+{
+  "directory": "/root/practice_project/Chat/build",
+  "command": "/usr/bin/c++   -I/root/practice_project/Chat/include  -g   -std=gnu++11 -o CMakeFiles/chat_client.dir/src/chat_server.cpp.o -c /root/practice_project/Chat/src/chat_server.cpp",
+  "file": "/root/practice_project/Chat/src/chat_server.cpp"
+},
+{
+  "directory": "/root/practice_project/Chat/build",
+  "command": "/usr/bin/c++   -I/root/practice_project/Chat/include  -g   -std=gnu++11 -o CMakeFiles/chat_client.dir/src/chat_session.cpp.o -c /root/practice_project/Chat/src/chat_session.cpp",
+  "file": "/root/practice_project/Chat/src/chat_session.cpp"
+},
+{
+  "directory": "/root/practice_project/Chat/build",
+  "command": "/usr/bin/c++   -I/root/practice_project/Chat/include  -g   -std=gnu++11 -o CMakeFiles/chat_client.dir/client.cpp.o -c /root/practice_project/Chat/client.cpp",
+  "file": "/root/practice_project/Chat/client.cpp"
+},
+{
+  "directory": "/root/practice_project/Chat/build",
+  "command": "/usr/bin/c++   -I/root/practice_project/Chat/include  -g   -std=gnu++11 -o CMakeFiles/chat_server.dir/src/chat_client.cpp.o -c /root/practice_project/Chat/src/chat_client.cpp",
+  "file": "/root/practice_project/Chat/src/chat_client.cpp"
+},
+{
+  "directory": "/root/practice_project/Chat/build",
+  "command": "/usr/bin/c++   -I/root/practice_project/Chat/include  -g   -std=gnu++11 -o CMakeFiles/chat_server.dir/src/chat_room.cpp.o -c /root/practice_project/Chat/src/chat_room.cpp",
+  "file": "/root/practice_project/Chat/src/chat_room.cpp"
+},
+{
+  "directory": "/root/practice_project/Chat/build",
+  "command": "/usr/bin/c++   -I/root/practice_project/Chat/include  -g   -std=gnu++11 -o CMakeFiles/chat_server.dir/src/chat_server.cpp.o -c /root/practice_project/Chat/src/chat_server.cpp",
+  "file": "/root/practice_project/Chat/src/chat_server.cpp"
+},
+{
+  "directory": "/root/practice_project/Chat/build",
+  "command": "/usr/bin/c++   -I/root/practice_project/Chat/include  -g   -std=gnu++11 -o CMakeFiles/chat_server.dir/src/chat_session.cpp.o -c /root/practice_project/Chat/src/chat_session.cpp",
+  "file": "/root/practice_project/Chat/src/chat_session.cpp"
+},
+{
+  "directory": "/root/practice_project/Chat/build",
+  "command": "/usr/bin/c++   -I/root/practice_project/Chat/include  -g   -std=gnu++11 -o CMakeFiles/chat_server.dir/server.cpp.o -c /root/practice_project/Chat/server.cpp",
+  "file": "/root/practice_project/Chat/server.cpp"
+}
+]
